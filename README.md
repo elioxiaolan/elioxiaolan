@@ -5,5 +5,4 @@
 - 👯 I’m looking to collaborate on meanful projects that **make an impact** and **give voice to the voiceless**
 - 🤔 I’m looking for **2023 Summmer/Fall SDE/SWE Internships**
 - 📫 How to reach me: **elio.lan.2022@outlook.com**
-- 😄 Portfolio: ...
 - ⚡ Fun fact: I'm both a **dogophile**🐶 and an **ailurophile**🐱
