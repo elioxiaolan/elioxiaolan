@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Elio
+### Hi there 👋 I'm Xiao(Elio)
 
 - 🔭 I’m currently working on Amazon Robotics🤖️ as a Software Engineer Intern
 - 🌱 I’m currently learning ...
