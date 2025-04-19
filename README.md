@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Xiao(Elio)
+### Hi there 👋 I'm Xiao (Elio)
 
 - 🔭 I’m currently a software engineer at Bloomberg
 - 😄 Portfolio: **https://elioxiaolan.super.site**
